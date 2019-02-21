@@ -1,2 +1,51 @@
-cXm0mGaFFg8uR4RlDNIi
-
+{
+    "operate": 1,
+    "bankName": "上海分行",
+    "regionName": "晨晖路支行",
+    "tempName": "吴帆模板名称",
+    "projectName": "营业前早间安全检查",
+    "tempType": 1,
+    "tempId": "12334",
+    "tempPeriod": [
+        {
+            "start": "00:00",
+            "end": "00:01"
+        },
+        {
+            "start": "00:01",
+            "end": "00:02"
+        }
+    ],
+    "points": [
+        {
+            "id": "0003",
+            "name": "履职点一",
+            "type": 1,
+            "tagNum": "4008269595",
+            "installPosition": "分行大厅前门"
+        },
+        {
+            "id": "0002",
+            "name": "履职点二",
+            "type": 1,
+            "tagNum": "4008269555",
+            "installPosition": "分行大厅侧门"
+        }
+    ],
+    "projects": [
+        {
+            "item": "检查监控系统是否正常",
+            "require": "检查监控画面有无花屏、无图像现象，存储、系统时间是否正常",
+            "projectType": "节假日",
+            "pointId": "0003",
+            "projectId": "123457"
+        },
+        {
+            "item": "检查联动门状态等",
+            "require": "必须在联动门开启的状态下，检查联动效果是否正常，有无破损或失灵",
+            "projectType": "工作日",
+            "pointId": "0002",
+            "projectId": "123456"
+        }
+    ]
+}
