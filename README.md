@@ -6,3 +6,4 @@ test
 -- https://blog.csdn.net/heylun/article/details/78732451?utm_source=blogxgwz0
 
 mybatis多数据源单独使用 https://blog.csdn.net/weixin_43911286/article/details/111566772
+https://segmentfault.com/a/1190000038171792?utm_source=tag-newest
