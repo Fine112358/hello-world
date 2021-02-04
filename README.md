@@ -10,3 +10,5 @@ test
 -- mybatis-plus多数据源单独使用 https://segmentfault.com/a/1190000038171792?utm_source=tag-newest
 
 -- springboot非web应用 https://blog.csdn.net/wota5037/article/details/109775651
+
+https://github.com/Tanking666/spring-boot-java
